@@ -129,7 +129,7 @@ section[data-testid="stSidebar"] {
 # MODEL SETTINGS
 # ============================================================
 
-MODEL_PATH = "models/early_blight_weighted.keras"
+MODEL_PATH = "early_blight_weighted.keras"
 
 CLASS_NAMES = [
     "Tomato_Bacterial_spot",
